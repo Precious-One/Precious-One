@@ -2,14 +2,12 @@
 <h1 align="center">Hi<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="5%" height="5%"/>, I'm Ganesh.</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
 
-<img
-  src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif"
-  alt="Alt text"
-  style="float: left; margin: 0 auto; max-width: 300px">
-
 <h3 align="left"> <![image](https://user-images.githubusercontent.com/132249223/235851187-37d84c17-bf3f-4809-9c12-398ebf498194.png)>
-About Me:</h3>
+<p align="right">
+  <img src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif" alt="Alt text"  style="float: left; margin: 0 auto; max-width: 300px">
+</p>
 
+About Me:</h3>
 - 👨🏻‍💻I’m currently working on **COVID19 Project**
 
 - 🌱 I’m currently learning **ML**
