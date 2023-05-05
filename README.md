@@ -6,9 +6,9 @@
  About Me :
 </h2>
 <p>
-<animated-image data-catalyst="" style="float: right; width: 400px;">
+<animated-image data-catalyst="" style="float: right; width: 250px;">
 <a target="_blank" rel="noopener noreferrer" href="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif">
-<img align="right" alt="Alt text"  style="float: left; margin: 0 auto; max-width: 150px" src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Alt text"  style="float: left; margin: 0 auto; max-width: 150px" src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Coding"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
