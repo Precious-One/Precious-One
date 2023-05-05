@@ -4,7 +4,7 @@
 
 <h3 align="left"> <![image](https://user-images.githubusercontent.com/132249223/235851187-37d84c17-bf3f-4809-9c12-398ebf498194.png)>
 <p align="right">
-  <img src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif" alt="Alt text"  style="float: left; margin: 0 auto; max-width: 300px">
+  <img src="https://mindsparklemag.com/wp-content/uploads/2018/08/OS_01-1.gif" alt="Alt text"  style="float: left; margin: 0 auto; max-width: 250px">
 </p>
 
 About Me:</h3>
